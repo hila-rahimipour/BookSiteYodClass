@@ -1,0 +1,72 @@
+﻿body {
+    background-color: #ffeee6;
+    font-family: Calibri;
+    direction: rtl;
+}
+
+p {
+    font-family: Calibri;
+    direction: rtl;
+    font-size: 28px;
+    justify-content: center;
+    max-width: 1005px;
+    line-height: 45px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-decoration: underline overline dotted 8px #ffb999;
+    direction: rtl;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+    .flex-container > div {
+        background-color: none;
+        text-align: center;
+        line-height: 45px;
+        justify-content: center;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffdccc;
+    float: right;
+}
+
+li {
+    float: right;
+}
+
+    li a {
+        display: block;
+        text-align: center;
+        padding: 5px 7px;
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+    }
+
+        li a:hover {
+            background-color: #ffcbb3;
+            padding: 7px 9px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+footer {
+    text-align: center;
+    background-color: #ffdccc;
+    padding: 5px;
+    justify-content: center;
+}

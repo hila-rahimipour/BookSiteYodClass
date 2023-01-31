@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<news>
+  <report>
+    <user>hiloola12@gmail.com</user>
+    <date>9/5/2021</date>
+    <content>שלום לכולם
+</content>
+  </report>
+  <report>
+    <user>hiloola12@gmail.com</user>
+    <date>4/5/2021</date>
+    <content>שלום לכולם! מה שלומכם?</content>
+  </report>
+	<report>
+		<user>hiloola12@gmail.com</user>
+		<date>4/5/2021</date>
+		<content>hello</content>
+	</report>
+	<report>
+		<user>hiloola12@gmail.com</user>
+		<date>6/5/2021</date>
+		<content>שלום לכולם! מה שלומכם?</content>
+	</report>
+</news>
